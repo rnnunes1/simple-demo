@@ -1,2 +1,2 @@
 # simple-demo
-Git bash training repository
+Git bash training repository in cours
